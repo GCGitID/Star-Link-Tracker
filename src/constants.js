@@ -1,4 +1,4 @@
-export const SAT_API_KEY="YAJXN7-8HFGJK-NFTPYF-5012";   //replace the key with your own key
+export const SAT_API_KEY="YOUR_API_KEY";   //replace the key with your own key
 export const STARLINK_CATEGORY="52";
 export const NEARBY_SATELLITE="rest/v1/satellite/above";
 export const BASE_URL="";
